@@ -7,8 +7,6 @@ tags:
   - Server
 ---
 
-# Spring Boot CRUD using Redis for session
-
 웹 개발 중 클라이언트 개발을 주로 해왔지만 웹 개발자로서 서버 개발 능력 또한 갖추어야 한다고 생각해 자바스터디에 참여했고 첫 번째 공부로 `Spring Boot`를 활용한 `CRUD API`를 구현했다.
 
 `Express.js`가 아닌 `Spring Boot`를 선택한 이유로는 대학 생활에 가장 즐겁게 배웠던 프로그래밍 언어였으며 우리나라의 대부분 서비스 서버는 자바로 구현되어 있기 때문이다.

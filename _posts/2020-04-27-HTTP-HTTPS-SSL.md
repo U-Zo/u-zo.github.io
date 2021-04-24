@@ -2,7 +2,7 @@
 title: "HTTP, HTTPS와 SSL 인증서"
 
 categories:
-  - Post
+  - Develop
 tags:
   - Security
 ---
